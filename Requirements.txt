@@ -4,11 +4,11 @@ notebook
 numpy
 scikit-learn
 matplotlib
-python-box #for exception handling
+python-box
 pyYAML
 tqdm
 ensure
 joblib
-types-pyYAML
+types-PyYAML
 Flask
 Flask-Cors
